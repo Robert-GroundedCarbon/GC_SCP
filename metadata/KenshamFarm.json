@@ -1,0 +1,15 @@
+{
+
+    "name": "Kensham Farm",
+
+    "description": "Kensham Farm is a 800 hectare wheat farm located in Berkshire. They have been practising regenerative farming since 2019. They are the first partner farm of Grounded Carbon",
+
+    "image": "https://ipfs.io/ipfs/QmQdD18jK4cw3UcHu8kEFQwP1edbtewAqHwFg1KnfB2GFF?filename=ezgif.com-gif-maker%20(5).gif",
+
+    "attributes": [
+        {
+            "trait_type": "SoilOrganicCarbonContent",
+            "value": 60
+        }
+    ]
+}
